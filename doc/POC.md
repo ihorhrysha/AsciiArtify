@@ -61,4 +61,4 @@ To create a new namespace named `argocd` and install Argo CD in a Kubernetes clu
 
 Now you have successfully created a new namespace `argocd` and installed Argo CD in your Kubernetes cluster.
 
-![Argo CD interface](./img/image.png)
+![Argo CD interface](./img/poc_result.png)
